@@ -1,0 +1,4 @@
+# Copy this file to private.properties for local builds.
+# Never commit private.properties.
+GOOGLE_WEB_CLIENT_ID=
+CLOUDFLARE_API_BASE_URL=https://your-worker.example.workers.dev

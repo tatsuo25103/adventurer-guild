@@ -1,0 +1,4 @@
+template_name,title,description,type,gp_reward,exp_reward,target_count,difficulty,tags,min_rank,active_weekdays,has_time_limit,penalty_gp,penalty_exp,bonus_gp,bonus_exp,grace_period_days,submission_deadline_days,weekly_refresh_weekday,monthly_refresh_day,pinned
+本週家事幫手,本週家事幫手,"本週完成 3 次簡單家事，例如摺衣服、擦桌子、倒回收。",WEEKLY_QUEST,60,80,3,NORMAL,"家庭;家事",F,,false,0,0,10,10,0,0,1,,false
+本週閱讀挑戰,本週閱讀挑戰,"本週累積閱讀 5 天，每天至少 10 分鐘。",WEEKLY_QUEST,80,100,5,NORMAL,"閱讀;學習",F,,false,0,0,15,20,0,0,1,,false
+本週禮貌練習,本週禮貌練習,"本週主動說請、謝謝、對不起各至少一次。",WEEKLY_QUEST,50,70,3,EASY,"禮貌;情緒",F,,false,0,0,10,10,0,0,1,,false

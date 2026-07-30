@@ -1,0 +1,5 @@
+template_name,title,description,type,gp_reward,exp_reward,target_count,difficulty,tags,min_rank,active_weekdays,has_time_limit,penalty_gp,penalty_exp,bonus_gp,bonus_exp,grace_period_days,submission_deadline_days,weekly_refresh_weekday,monthly_refresh_day,pinned
+聯絡簿簽名,聯絡簿簽名確認,"確認聯絡簿已給家長簽名，或由家長/公會管理員認定完成。",DAILY_QUEST,12,10,1,EASY,"學校;責任",F,"1;2;3;4;5",false,0,0,0,0,0,0,,,false
+整理書包,整理明天書包,"把明天要帶的課本、作業、文具放進書包。",DAILY_QUEST,12,12,1,EASY,"學校;整理",F,"1;2;3;4;5;7",false,0,0,0,0,0,0,,,false
+閱讀 10 分鐘,閱讀 10 分鐘,"閱讀任何喜歡的書 10 分鐘，可以回報書名或空白讓公會認定。",DAILY_QUEST,15,20,1,EASY,"閱讀;學習",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false
+完成作業檢查,完成作業檢查,"確認今天的作業已完成，並整理好要帶回學校的項目。",DAILY_QUEST,15,18,1,EASY,"學校;作業",F,"1;2;3;4;5",false,0,0,0,0,0,0,,,false

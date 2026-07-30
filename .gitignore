@@ -1,0 +1,33 @@
+.gradle/
+/build/
+/app/build/
+/.agents/
+/.codex/
+/.codex-remote-attachments/
+/local.properties
+/private.properties
+/app/google-services.json
+*.iml
+.idea/
+
+# Local Cloudflare state and deployment identifiers
+/cloudflare/.wrangler/
+/cloudflare/node_modules/
+/cloudflare/tools/
+/cloudflare/wrangler.jsonc
+/cloudflare/*.log
+/cloudflare/node-*.zip
+
+# Local SDK/tool archives and test artifacts
+/android-commandlinetools.zip
+/gradle-*-bin.zip
+/cmdline-tools-extract/
+/artifacts/
+/screenshots/
+/*.png
+/*.jpg
+/*.xml
+/offline_guild_state*.json
+
+# APKs are distributed separately from source control
+*.apk

@@ -1,0 +1,19 @@
+{
+  "name": "adventurer-guild-cloud-mailbox",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node ./scripts/integration-suite.mjs",
+    "test:signed": "node ./scripts/signed-smoke.mjs",
+    "test:guild-flow": "node ./scripts/guild-flow-smoke.mjs",
+    "test:counter-flow": "node ./scripts/counter-flow-smoke.mjs",
+    "test:account-transfer": "node ./scripts/account-transfer-smoke.mjs",
+    "db:local": "wrangler d1 execute adventurer-guild-db --local --file=./schema.sql",
+    "db:remote": "wrangler d1 execute adventurer-guild-db --remote --file=./schema.sql"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

@@ -1,0 +1,5 @@
+template_name,title,description,type,gp_reward,exp_reward,target_count,difficulty,tags,min_rank,active_weekdays,has_time_limit,penalty_gp,penalty_exp,bonus_gp,bonus_exp,grace_period_days,submission_deadline_days,weekly_refresh_weekday,monthly_refresh_day,pinned
+早上喝水 1000cc,早上喝水 1000cc,"今天早上到中午前喝完 1000cc 水，可以文字、照片或空白回報，由公會認定。",DAILY_QUEST,15,15,1,EASY,"健康;喝水",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false
+回家先洗手,回家先洗手,"回家後先用肥皂洗手，完成後回報。",DAILY_QUEST,10,10,1,EASY,"衛生;生活習慣",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false
+睡前刷牙,睡前刷牙,"睡前完成刷牙，養成每天照顧牙齒的習慣。",DAILY_QUEST,10,10,1,EASY,"衛生;睡前",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false
+準時上床,準時上床準備睡覺,"在約定時間前完成睡前準備並上床。",DAILY_QUEST,15,15,1,EASY,"睡眠;生活習慣",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false

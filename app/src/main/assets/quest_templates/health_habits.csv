@@ -1,0 +1,4 @@
+template_name,title,description,type,gp_reward,exp_reward,target_count,difficulty,tags,min_rank,active_weekdays,has_time_limit,penalty_gp,penalty_exp,bonus_gp,bonus_exp,grace_period_days,submission_deadline_days,weekly_refresh_weekday,monthly_refresh_day,pinned
+運動伸展 5 分鐘,運動伸展 5 分鐘,"做簡單伸展、跳繩、散步或其他安全運動 5 分鐘。",DAILY_QUEST,15,15,1,EASY,"健康;運動",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false
+吃一份水果,吃一份水果,"今天吃一份水果，記得先洗手或清洗水果。",DAILY_QUEST,12,12,1,EASY,"健康;飲食",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false
+戶外活動,戶外活動 15 分鐘,"在安全環境下進行戶外活動 15 分鐘。",DAILY_QUEST,15,18,1,EASY,"健康;戶外",F,"1;2;3;4;5;6;7",false,0,0,0,0,0,0,,,false

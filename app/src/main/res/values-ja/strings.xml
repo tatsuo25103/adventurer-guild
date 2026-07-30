@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">冒険者ギルド</string>
+    <string name="quest_widget_title">冒険者ギルドのクエスト</string>
+    <string name="quest_widget_description">進行中のクエストと審査待ちを表示します</string>
+    <string name="quest_widget_empty">クエストはありません</string>
+</resources>
